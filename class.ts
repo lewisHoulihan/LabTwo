@@ -1,0 +1,2 @@
+import {testInterface} from "./functionInterface";
+
